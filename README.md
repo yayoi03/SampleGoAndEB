@@ -4,6 +4,7 @@
 
 ## ブログURL
 AWS EB(elastic beanstalk)+Go(Gin)でwebアプリをデプロイする
+
 https://www.yayoibloglife.work/entry/2020/04/28/193146
 
 ## サンプル例
